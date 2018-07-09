@@ -1,0 +1,17 @@
+
+print("Hello")
+print('Hi'+'Bitch')
+print('Ho','Ho')
+print('Hi   '+'Bitch')
+print('Hi',5)
+print(int('8')+5)
+print(float('8.5')+5)
+print('Hi, '+str(5))
+print(4**4)
+print(3/34)
+print('3/34')
+exampleVar= 88*55
+print(exampleVar)
+x,y,z=(3,5,8)
+print(y)
+print(z) 
